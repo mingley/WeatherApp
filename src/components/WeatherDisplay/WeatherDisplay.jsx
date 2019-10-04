@@ -20,7 +20,7 @@ export default class WeatherDisplay extends React.Component {
                     <div className='row'>
                     <div className='col-12 col-md-12'>
                         <div style={whiteBorder} className='card card-outline-default text-center'>
-                            <h2 className='card-title'>Please select a city button or insert a city in the box and press Go!</h2>
+                            <h2 className='card-title'>Select or search for a city, and press go!</h2>
                         </div>
                     </div>
                     </div>
